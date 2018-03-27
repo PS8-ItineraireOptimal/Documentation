@@ -2,10 +2,23 @@
 
 Ce groupe est constitué par 5 membres
 
-| :-------: | ----: | :---: |
-| Computer | $1600 |  5    |
-| Phone    | $12   |  12   |
-| Pipe     | $1    |  234  |
+<table>
+  <tr>
+    <td>LIU Jixiong </td>
+  </tr>
+  <tr>
+    <td>MANGEARD Benoît </td>
+  </tr>
+  <tr>
+    <td>OBAME EDOU Yves William </td>
+  </tr>
+  <tr>
+    <td>XUAN Yuang</td>
+  </tr>
+  <tr>
+    <td>MAILLY Charles</td>
+ </tr>
+</table>
 
 
 

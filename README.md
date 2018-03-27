@@ -2,7 +2,7 @@
 
 Ce groupe est constitué par 5 membres
 
-
+| Item     | Value | Qty   |
 | :------- | ----: | :---: |
 | Computer | $1600 |  5    |
 | Phone    | $12   |  12   |

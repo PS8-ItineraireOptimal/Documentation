@@ -3,7 +3,10 @@
 Ce groupe est constitué par 5 membres
 
 
-LIU Jixiong | MANGELARD Benoît | OBAME EDOU Yves William | XUAN Yuang | MAILLY Charles
+| :------- | ----: | :---: |
+| Computer | $1600 |  5    |
+| Phone    | $12   |  12   |
+| Pipe     | $1    |  234  |
 
 
 

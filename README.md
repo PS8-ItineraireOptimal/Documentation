@@ -2,6 +2,7 @@
 
 Ce groupe est constitué par 5 membres
 
+
 <table>
   <tr>
     <td>LIU Jixiong </td>
@@ -19,6 +20,8 @@ Ce groupe est constitué par 5 membres
     <td>MAILLY Charles</td>
  </tr>
 </table>
+
+
 
 
 
